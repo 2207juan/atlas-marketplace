@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "oderwat.indent-rainbow",
+    "folderName": "oderwat.indent-rainbow-8.3.1",
+    "displayName": "Indent Rainbow",
+    "publisher": "oderwat",
+    "description": "This extension colorizes the indentation in front of your text, alternating four different colors on each step.",
+    "version": "8.3.1",
+    "downloadUrl": "https://github.com/2207juan/atlas-marketplace/releases/download/v1.0.0/indent-rainbow-8.3.1.vsix"
+  }
+]
